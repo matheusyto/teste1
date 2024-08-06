@@ -1,1 +1,1 @@
-console.log("Qualquer coisa");
+console.log("Hoje é terça feira");
